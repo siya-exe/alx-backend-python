@@ -22,4 +22,7 @@ if connection:
         rows = cursor.fetchall()
         print(rows)
         cursor.close()
-        ["def stream_users()"]'''
+        ["def stream_users()"]
+        ["def stream_users_in_batches"]
+        ["def batch_processing", "25", ">"]
+        ["yield", "return"]'''
