@@ -1,0 +1,1 @@
+RequestLoggingMiddleware with two methods, __init__and __call__.
